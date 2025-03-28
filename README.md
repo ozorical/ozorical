@@ -3,6 +3,7 @@
 - **Realms+**: Best Realm-Bot
 
 ![](https://cdn.discordapp.com/attachments/1275181173785497610/1349349443693973575/A0FDC1E6-4CB6-4F7F-800C-62ADEC8680E6.jpg?ex=67e7df19&is=67e68d99&hm=c9fb84d0a5ec94cb7e4dc33e78fd7e58ec3f7a0d94e125549d77595b4cb66f29&)
+![](https://media.discordapp.net/attachments/1173966738195488768/1309943156401508362/animation.gif?ex=67e78de2&is=67e63c62&hm=ce6036f3f09c4a1b3a6a8f0125aed8951574ac0f640338de7b18af4a1bd9df6b&)
 
 ## 🌐 Contact me here
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1136030078405451787)
