@@ -31,8 +31,3 @@
 
 ---
 
-## 🔎 Profile Visits:
-[![](https://visitcount.itsvg.in/api?id=ozorical&icon=9&color=3)](https://visitcount.itsvg.in)
-
----
-
