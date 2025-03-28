@@ -11,7 +11,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ozorical/ozorical/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ozorical/ozorical/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ozorical/ozorical/output/github-snake.svg" />
+  <img alt="hmm" src="https://raw.githubusercontent.com/ozorical/ozorical/output/github-snake.svg](https://cdn.discordapp.com/attachments/1275181173785497610/1349349443693973575/A0FDC1E6-4CB6-4F7F-800C-62ADEC8680E6.jpg?ex=67e7df19&is=67e68d99&hm=c9fb84d0a5ec94cb7e4dc33e78fd7e58ec3f7a0d94e125549d77595b4cb66f29&" />
 </picture>
 
 # 📊 GitHub Stats:
