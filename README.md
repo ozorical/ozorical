@@ -8,6 +8,10 @@ CrabSMP is a Minecraft Bedrock Edition Realm that has been around for years. It 
 Realms+ is a Minecraft Bedrock utility bot that allows you to manage, defend and make your Realm experience way better! We have awesome features such as Chat relay, which allows you to see your Minecraft chat in your Discord guild and vice versa, Live Playerlist info which makes you be able
 to see your players in your Realm from Discord in real time, and MUCH MORE.  
 
+# **Ozz Developments**
+![](https://share.creavite.co/67e7517971cd7c246f7c0115.gif)
+My personal mini company designed to assist people based on code around JavaScript and C++. 100% free, 100% reliable.
+
 ## 🌐 My Discord:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1136030078405451787)
 
