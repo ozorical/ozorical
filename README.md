@@ -9,7 +9,7 @@ Realms+ is a Minecraft Bedrock utility bot that allows you to manage, defend and
 to see your players in your Realm from Discord in real time, and MUCH MORE.  
 
 # **Ozz Developments**
-![](https://imgur.com/a/IphqQf5)
+![](https://imgur.com/2CPX4s5)
 
 My personal mini company designed to assist people based on code around JavaScript and C++. 100% free, 100% reliable.
 
