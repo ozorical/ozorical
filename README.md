@@ -1,3 +1,7 @@
+## 👋 Welcome to My GitHub Profile!
+
+Hey there! I'm passionate about developing projects that enhance experience and build innovative software solutions to many things. Whether you're here to check out my stuff, or you're curious about my upcoming projects, I hope you find something you like :)
+
 ## 🗃️ Current Projects:
 # **CrabSMP**
 ![](https://cdn.discordapp.com/attachments/1275181173785497610/1349349443693973575/A0FDC1E6-4CB6-4F7F-800C-62ADEC8680E6.jpg?ex=67e7df19&is=67e68d99&hm=c9fb84d0a5ec94cb7e4dc33e78fd7e58ec3f7a0d94e125549d77595b4cb66f29&)
