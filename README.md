@@ -10,6 +10,7 @@ to see your players in your Realm from Discord in real time, and MUCH MORE.
 
 # **Ozz Developments**
 ![](https://share.creavite.co/67e7517971cd7c246f7c0115.gif)
+
 My personal mini company designed to assist people based on code around JavaScript and C++. 100% free, 100% reliable.
 
 ## 🌐 My Discord:
