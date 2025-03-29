@@ -1,3 +1,4 @@
+----------
 ## 👋 Welcome to My GitHub Profile!
 
 Hey there! I'm passionate about developing projects that enhance experience and build innovative software solutions to many things. Whether you're here to check out my stuff, or you're curious about my upcoming projects, I hope you find something you like :)
