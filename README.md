@@ -2,19 +2,25 @@
 
 ### **CrabSMP**
 ![CrabSMP](https://cdn.discordapp.com/attachments/1275181173785497610/1349349443693973575/A0FDC1E6-4CB6-4F7F-800C-62ADEC8680E6.jpg?ex=67e7df19&is=67e68d99&hm=c9fb84d0a5ec94cb7e4dc33e78fd7e58ec3f7a0d94e125549d77595b4cb66f29&)
-CrabSMP is a long-standing Minecraft Bedrock Edition Realm, offering innovative features that rival top SMP servers. The best part? It's a Realm! This means seamless cross-platform access, making it easier than ever to play with friends.
+- CrabSMP is a long-standing Minecraft Bedrock Edition Realm, offering innovative features that rival top SMP servers. The best part? It's a Realm! This means seamless cross-platform access, making it easier than ever to play with friends.
 
 ### **Realms+**
 ![Realms+](https://media.discordapp.net/attachments/1173966738195488768/1309943156401508362/animation.gif?ex=67e78de2&is=67e63c62&hm=ce6036f3f09c4a1b3a6a8f0125aed8951574ac0f640338de7b18af4a1bd9df6b&)
-Realms+ is your all-in-one Minecraft Bedrock utility bot! Manage and protect your Realm effortlessly with features like chat relay for Discord integration, real-time player tracking, and so much more. Elevate your Realm management with ease.
+- Realms+ is your all-in-one Minecraft Bedrock utility bot! Manage and protect your Realm effortlessly with features like chat relay for Discord integration, real-time player tracking, and so much more. Elevate your Realm management with ease.
 
 ### **Ozz Developments** *(Coming Soon)*
-A personal project dedicated to providing reliable assistance for coding challenges in JavaScript and C++. Free, dependable, and built with passion.
+- A personal project dedicated to providing reliable assistance for coding challenges in JavaScript and C++. Free, dependable, and built with passion.
 
 ---
 
 ## 🌐 Contact me!
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1136030078405451787)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
@@ -26,14 +32,6 @@ A personal project dedicated to providing reliable assistance for coding challen
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
----
-
-## 🐍 Contributions:
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</picture>
 
 ---
 
