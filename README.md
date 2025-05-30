@@ -39,7 +39,7 @@
 
 # 🗂️ Projects
 
-## 🦀 CrabSMP
+## CrabSMP
 
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1275181173785497610/1349349443693973575/A0FDC1E6-4CB6-4F7F-800C-62ADEC8680E6.jpg?ex=683a44d9&is=6838f359&hm=b138319b636d99a7b568cea2b8f5d20bfd97e387a395c17567630e53a50567a1" width="75%" />
@@ -54,7 +54,7 @@ A Minecraft Bedrock server network
 ---
 
 
-## 🛡️ UniqueShield
+## UniqueShield
 
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1094625436681637918/1170682584771088425/UniqueShield.png?ex=683a3bde&is=6838ea5e&hm=46539e9a1829e126e313ed70003121fda535951afa0e9ff0455eab6035d27a7f" width="50%" />
