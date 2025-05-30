@@ -1,7 +1,17 @@
 ----------
 ### 👋 Welcome to My GitHub Profile!
 
-Hey there! I'm passionate about developing projects that enhance experience and build innovative software solutions to many things. Whether you're here to check out my stuff, or you're curious about my upcoming projects, I hope you find something you like :)
+Hi, I'm Ozz 😉, a programmer 👨🏻‍💻 from the UK. I'm a fullstack dev and always develop in TypeScript.
+
+
+**Current Status**
+
+- 👨🏻‍💻 I’m currently working on UniqueShield and CrabSMP.
+- 🌱 I’m currently learning C++ and Java.
+- 🤔 My research interests are with client Systems.
+- 💼 I’m pursuing a software engineering career.
+- 💬 Ask me about anything, I would like to answer.
+- 📫 Please email via ozz@crabsmp.net to reach me.
 
 ----------
 
