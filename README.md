@@ -49,7 +49,10 @@
   <img src="https://cdn.discordapp.com/attachments/1275181173785497610/1349349443693973575/A0FDC1E6-4CB6-4F7F-800C-62ADEC8680E6.jpg?ex=683a44d9&is=6838f359&hm=b138319b636d99a7b568cea2b8f5d20bfd97e387a395c17567630e53a50567a1" width="75%" />
 </p>
 
-A long-standing Minecraft Bedrock Edition Realm featuring advanced, competitive mechanics — all hosted in an easy-to-join Realm format.
+A Minecraft Bedrock server network
+- Up to 25-player holding capabilities
+- Uses MCBE Script API 2.0.0-beta and CrabSMP's Crab-Engine V4 Inferstructure
+- Nested within the MCBE Realms community, and rated highly
 
 
 ---
