@@ -14,12 +14,12 @@ Hey there! I'm passionate about developing projects that enhance experience and 
 
 ## 🗃️ Current Projects:
 ### **CrabSMP**
-![](https://imgur.com/a/vyqFUzm)
+![](https://cdn.discordapp.com/attachments/1275181173785497610/1349349443693973575/A0FDC1E6-4CB6-4F7F-800C-62ADEC8680E6.jpg?ex=683a44d9&is=6838f359&hm=b138319b636d99a7b568cea2b8f5d20bfd97e387a395c17567630e53a50567a1&)
 - CrabSMP is a Minecraft Bedrock Edition Realm that has been around for years. It has some amazing features which compete with even the best SMP based servers, and the best part? It's a Realm! That means that it's easy to join and more convinient for our players to join on any device.
 
 
 ### **UniqueShield**
-![](https://imgur.com/a/Pvav3Si)
+![](https://cdn.discordapp.com/attachments/1094625436681637918/1170682584771088425/UniqueShield.png?ex=683a3bde&is=6838ea5e&hm=46539e9a1829e126e313ed70003121fda535951afa0e9ff0455eab6035d27a7f&)
 - UniqueShield is a Minecraft Bedrock utility bot that allows you to manage, defend and make your Realm experience way better! We have awesome features such as Chat relay, which allows you to see your Minecraft chat in your Discord guild and vice versa, Live Playerlist info which makes you be able
 to see your players in your Realm from Discord in real time, and MUCH MORE.
 - Also works with servers!
