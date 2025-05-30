@@ -1,7 +1,7 @@
 ----------
 ### 👋 Welcome to My GitHub Profile!
 
-Hi, I'm Ozz 😉, a programmer 👨🏻‍💻 from the UK. I'm a fullstack dev and always develop in TypeScript.
+Hi, I'm Ozz, a programmer from the UK. I'm a fullstack dev and always develop in TypeScript.
 
 
 **Current Status**
