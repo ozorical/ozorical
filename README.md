@@ -12,7 +12,7 @@
 
 ---
 
-### 🚀 Current Status
+## 🚀 Current Status
 
 - 👨🏻‍💻 Working on <strong>UniqueShield</strong> and <strong>CrabSMP</strong>  
 - 🌱 Learning <strong>C++</strong> and <strong>Java</strong>  
@@ -22,7 +22,7 @@
 
 ---
 
-### 💻 Tech Stack
+## 💻 Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" />
@@ -35,9 +35,9 @@
 
 ---
 
-### 🗂️ Projects
+## 🗂️ Projects
 
-#### 🦀 CrabSMP
+### 🦀 CrabSMP
 
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1275181173785497610/1349349443693973575/A0FDC1E6-4CB6-4F7F-800C-62ADEC8680E6.jpg?ex=683a44d9&is=6838f359&hm=b138319b636d99a7b568cea2b8f5d20bfd97e387a395c17567630e53a50567a1" width="75%" />
@@ -47,7 +47,7 @@ A long-standing Minecraft Bedrock Edition Realm featuring advanced, competitive 
 
 ---
 
-#### 🛡️ UniqueShield
+### 🛡️ UniqueShield
 
 <p align="center">
   <img src="https://cdn.discordapp.com/attachments/1094625436681637918/1170682584771088425/UniqueShield.png?ex=683a3bde&is=6838ea5e&hm=46539e9a1829e126e313ed70003121fda535951afa0e9ff0455eab6035d27a7f" width="50%" />
@@ -60,14 +60,14 @@ A Minecraft utility bot for Realms and servers that offers:
 
 ---
 
-#### 🧩 Ozz Developments
+### 🧩 Ozz Developments
 
 A personal project/company aimed at offering reliable, free help with JavaScript and C++ solutions.  
 *Coming soon.*
 
 ---
 
-### 📈 GitHub Activity
+## 📈 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ozorical&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
@@ -76,7 +76,7 @@ A personal project/company aimed at offering reliable, free help with JavaScript
 
 ---
 
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ozorical&theme=flat&no-frame=true&margin-w=6" />
@@ -84,7 +84,7 @@ A personal project/company aimed at offering reliable, free help with JavaScript
 
 ---
 
-### 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
