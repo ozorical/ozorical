@@ -52,6 +52,8 @@
 A long-standing Minecraft Bedrock Edition Realm featuring advanced, competitive mechanics — all hosted in an easy-to-join Realm format.
 
 
+
+
 ### 🛡️ UniqueShield
 
 <p align="center">
@@ -62,6 +64,8 @@ A Minecraft utility bot for Realms and servers that offers:
 - Real-time **chat relay** (Discord ↔ Minecraft)
 - **Live player list** synced to Discord
 - ...and more in development
+
+
 
 
 ### 🧩 Ozz Developments
