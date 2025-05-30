@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white" />
-</p>
+
 
 <p align="center">
   <a href="mailto:ozz@crabsmp.net">📫 Email Me</a> • 
@@ -26,8 +26,9 @@
 </picture>
 
 ---
-
+<p align="center">
 # 🚀 Current Status
+</p>
 
 - 👨🏻‍💻 Working on <strong>UniqueShield</strong> and <strong>CrabSMP</strong>  
 - 🌱 Learning <strong>C++</strong> and <strong>Java</strong>  
@@ -36,8 +37,9 @@
 - 💬 Open to questions — I love helping others  
 
 ---
-
+<p align="center">
 # 🗂️ Projects
+</p>
 
 ## CrabSMP
 
@@ -66,14 +68,17 @@ A Minecraft utility bot for Realms and servers that offers:
 ---
 
 
-## 🧩 Ozz Developments
+## Ozz Developments
 
 A personal project/company aimed at offering reliable, free help with JavaScript and C++ solutions.  
 *Coming soon.*
 
 ---
 
+
+<p align="center">
 # 📈 GitHub Activity
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ozorical&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
@@ -82,7 +87,10 @@ A personal project/company aimed at offering reliable, free help with JavaScript
 
 ---
 
+<p align="center">
 # 🏆 GitHub Trophies
+</p>
+
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ozorical&theme=flat&no-frame=true&margin-w=6" />
