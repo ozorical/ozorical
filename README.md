@@ -38,10 +38,10 @@
 
 ---
 <h1 align="center">
-🗂️ Projects
+Current Projects
 </h1>
 
-## CrabSMP
+## 🦀 CrabSMP
 
 A Minecraft Bedrock server network
 - Up to 25-player holding capabilities
@@ -54,7 +54,7 @@ A Minecraft Bedrock server network
 ---
 
 
-## UniqueShield
+## 🛡️ UniqueShield
 
 
 A Minecraft utility bot for Realms and servers that offers:
