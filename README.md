@@ -27,7 +27,7 @@
 
 ---
 
-## 🚀 Current Status
+# 🚀 Current Status
 
 - 👨🏻‍💻 Working on <strong>UniqueShield</strong> and <strong>CrabSMP</strong>  
 - 🌱 Learning <strong>C++</strong> and <strong>Java</strong>  
