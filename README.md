@@ -26,9 +26,9 @@
 </picture>
 
 ---
-<p align="center">
+<h1 align="center">
 # 🚀 Current Status
-</p>
+</h1>
 
 - 👨🏻‍💻 Working on <strong>UniqueShield</strong> and <strong>CrabSMP</strong>  
 - 🌱 Learning <strong>C++</strong> and <strong>Java</strong>  
@@ -37,9 +37,9 @@
 - 💬 Open to questions — I love helping others  
 
 ---
-<p align="center">
+<h1 align="center">
 # 🗂️ Projects
-</p>
+</h1>
 
 ## CrabSMP
 
@@ -76,9 +76,9 @@ A personal project/company aimed at offering reliable, free help with JavaScript
 ---
 
 
-<p align="center">
+<h1 align="center">
 # 📈 GitHub Activity
-</p>
+</h1>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ozorical&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
@@ -87,9 +87,9 @@ A personal project/company aimed at offering reliable, free help with JavaScript
 
 ---
 
-<p align="center">
+<h1 align="center">
 # 🏆 GitHub Trophies
-</p>
+</h1>
 
 
 <p align="center">
