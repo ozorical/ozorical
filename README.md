@@ -30,7 +30,7 @@
 🚀 Current Status
 </h1>
 
-- 👨🏻‍💻 Working on <strong>UniqueShield</strong> and <strong>CrabSMP</strong>  
+- 👨🏻‍💻 Working on <strong>EvermistSMP  
 - 🌱 Learning <strong>C++</strong> and <strong>Java</strong>  
 - 🤔 Researching <strong>Client Systems</strong>  
 - 💼 Pursuing a career in <strong>Software Engineering</strong>  
@@ -38,17 +38,17 @@
 
 ---
 <h1 align="center">
-Current Projects
+Projects
 </h1>
 
-## 🦀 CrabSMP
+## 🦀 CrabSMP (Past Project)
 
 A Minecraft Bedrock server network
 - Up to 25-player holding capabilities
 - Uses MCBE Script API 2.0.0-beta and CrabSMP's Crab-Engine V4 Inferstructure
 - Nested within the MCBE Realms community, and rated highly
 
-<img src="https://cdn.discordapp.com/attachments/1275181173785497610/1349349443693973575/A0FDC1E6-4CB6-4F7F-800C-62ADEC8680E6.jpg?ex=683a44d9&is=6838f359&hm=b138319b636d99a7b568cea2b8f5d20bfd97e387a395c17567630e53a50567a1" width="75%" />
+<img src="https://i.redd.it/5m4zmcrdmcud1.jpeg" width="75%" />
 
 
 ---
