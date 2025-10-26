@@ -54,7 +54,7 @@ A Minecraft Bedrock server network
 ---
 
 
-## 🛡️ UniqueShield
+## 🛡️ UniqueShield (Past Project)
 
 
 A Minecraft utility bot for Realms and servers that offers:
@@ -62,7 +62,18 @@ A Minecraft utility bot for Realms and servers that offers:
 - **Live player list** synced to Discord
 - ...and more in development
 
-<img src="https://cdn.discordapp.com/attachments/1094625436681637918/1170682584771088425/UniqueShield.png?ex=683a3bde&is=6838ea5e&hm=46539e9a1829e126e313ed70003121fda535951afa0e9ff0455eab6035d27a7f" width="50%" />
+
+---
+
+
+## 💧 Evermist
+
+
+A MCBE-SMP Survival server, based on the works of CrabSMP; a successor.
+- Real-time **chat relay** (Discord ↔ Minecraft)
+- **Live player list** synced to Discord
+- Full integration with Discord
+- Amazing playerbase.
 
 
 ---
