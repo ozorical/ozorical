@@ -2,7 +2,7 @@
 
 <p align="center">
   Hi, I'm <strong>Ozz</strong>, a fullstack developer from the UK.<br/>
-  I primarily work with <strong>TypeScript</strong> and enjoy building tools and systems for Minecraft Bedrock.
+  I primarily work with <strong>TypeScript</strong> and build systems & tooling for Minecraft (Java + Bedrock).
 </p>
 
 <p align="center">
@@ -12,10 +12,10 @@
   <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white" />
-
+</p>
 
 <p align="center">
-  <a href="mailto:ozz@crabsmp.net">📫 Email Me</a> • 
+  <a href="mailto:ozz@crabsmp.net">📫 ozz@crabsmp.net</a> • 
   <a href="https://discord.com/users/1136030078405451787">💬 Discord</a>
 </p>
 
@@ -26,70 +26,47 @@
 </picture>
 
 ---
-<h1 align="center">
-🚀 Current Status
-</h1>
 
-- 👨🏻‍💻 Working on <strong>EvermistSMP  
-- 🌱 Learning <strong>C++</strong> and <strong>Java</strong>  
-- 🤔 Researching <strong>Client Systems</strong>  
-- 💼 Pursuing a career in <strong>Software Engineering</strong>  
-- 💬 Open to questions — I love helping others  
+## 🚀 Current Focus
+
+- 👨🏻‍💻 Running & building: **CrabSMP (Java Server)**
+- 🌱 Learning: **C++** and **Java**
+- 🔍 Researching: **Client Systems**
+- 💼 Goal: **Software Engineering**
+- 💬 Open to questions — happy to help
 
 ---
-<h1 align="center">
-Projects
-</h1>
 
-## 🦀 CrabSMP (Past Project)
+## 🧩 Projects
 
-A Minecraft Bedrock server network
-- Up to 25-player holding capabilities
-- Uses MCBE Script API 2.0.0-beta and CrabSMP's Crab-Engine V4 Inferstructure
-- Nested within the MCBE Realms community, and rated highly
+### 🦀 CrabSMP (Current)
+A Minecraft **Java** network with Bedrock access, built around community, creativity, and competitive events.
+- **Crossplay access** (Java join + Bedrock connect)
+- Heavy **Discord integration** with a custom bot + chat integration
+- Server events (including **King of the Hill**)
+- Custom systems via **Crab-Engine V4** (TPA, warps, economy features, and more)
+- Storyline/lore, polished spawn, and ongoing updates
+
+**Join:** `play.crabsmp.net` (Bedrock port: `19132`)
 
 <img src="https://i.redd.it/5m4zmcrdmcud1.jpeg" width="75%" />
 
-
 ---
 
-
-## 🛡️ UniqueShield (Past Project)
-
-
-A Minecraft utility bot for Realms and servers that offers:
+### 🛡️ UniqueShield (Past)
+A Minecraft utility bot for Realms and servers.
 - Real-time **chat relay** (Discord ↔ Minecraft)
 - **Live player list** synced to Discord
-- ...and more in development
-
-
----
-
-
-## 💧 Evermist
-
-
-A MCBE-SMP Survival server, based on the works of CrabSMP; a successor.
-- Real-time **chat relay** (Discord ↔ Minecraft)
-- **Live player list** synced to Discord
-- Full integration with Discord
-- Amazing playerbase.
-
+- More features planned/iterating
 
 ---
 
-
-## Ozz Developments
-
-A personal project/company aimed at offering reliable, free help with JavaScript and C++ solutions.  
-*Coming soon.*
+### 🧪 Ozz Developments (Coming Soon)
+A personal project/company aimed at offering reliable, free help with JavaScript and C++ solutions.
 
 ---
 
-
-<h1 align="center">
-📈 GitHub Activity
-</h1>
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ozorical&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
@@ -98,15 +75,8 @@ A personal project/company aimed at offering reliable, free help with JavaScript
 
 ---
 
-<h1 align="center">
-🏆 GitHub Trophies
-</h1>
-
+## 🏆 Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ozorical&theme=flat&no-frame=true&margin-w=6" />
 </p>
-
-
-
----
