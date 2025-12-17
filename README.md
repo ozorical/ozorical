@@ -37,7 +37,7 @@
 
 ---
 
-## 🧩 Projects
+# Projects
 
 ### 🦀 CrabSMP (Current)
 A Minecraft **Java** network with Bedrock access, built around community, creativity, and competitive events.
