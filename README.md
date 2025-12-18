@@ -53,19 +53,6 @@ A Minecraft **Java** network with Bedrock access, built around community, creati
 
 ---
 
-### 🛡️ UniqueShield (Past)
-A Minecraft utility bot for Realms and servers.
-- Real-time **chat relay** (Discord ↔ Minecraft)
-- **Live player list** synced to Discord
-- More features planned/iterating
-
----
-
-### 🧪 Ozz Developments (Coming Soon)
-A personal project/company aimed at offering reliable, free help with JavaScript and C++ solutions.
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
