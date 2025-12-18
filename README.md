@@ -73,13 +73,6 @@ A personal project/company aimed at offering reliable, free help with JavaScript
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozorical&theme=github_dark&hide_border=true&layout=compact" width="48%" />
 </p>
 
----
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ozorical&theme=flat&no-frame=true&margin-w=6" />
-</p>
 
 ---
 
