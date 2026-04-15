@@ -33,8 +33,8 @@
 
 </div>
 
-- Building **CrabSMP: Rebirth** — a Bedrock SMP running on [Endstone](https://github.com/EndstoneMC/endstone)
-- Writing TypeScript add-ons and backend systems for the server
+- Relearning **Python** alongside [Endstone](https://github.com/EndstoneMC/endstone) development
+- Exploring databases — how they work and how to manage them for CrabSMP
 - Working on a Discord–Minecraft integration (account linking, live status, chat bridge)
 - Learning **C++**
 
@@ -48,8 +48,8 @@ A Bedrock SMP built around a custom TypeScript addon stack and tight Discord int
 
 - Full **Discord bridge** — account linking, live player list, join/leave events
 - Custom economy, warps, and TPA via **Crab-Engine**
-- Server events, lore, and ongoing seasonal content
-- **Season 9: Rebirth** — currently in development
+- Server events, lore, and ongoing updates
+- **Season 9: Rebirth** — live now
 
 `play.crabsmp.net` &nbsp;|&nbsp; Bedrock port `19132`
 
@@ -61,4 +61,5 @@ A Bedrock SMP built around a custom TypeScript addon stack and tight Discord int
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozorical&theme=github_dark&hide_border=true&layout=compact" width="48%" />
 
 </div>
+
 
