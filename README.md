@@ -53,10 +53,12 @@ A Bedrock SMP built around a custom TypeScript addon stack and tight Discord int
 - Server events, lore, and ongoing updates
 - **Season 9: Rebirth** — live now
 
+  <div align="center">
+
 `play.crabsmp.net` &nbsp;|&nbsp; Bedrock port `19132`
 
 <img src="https://i.redd.it/5m4zmcrdmcud1.jpeg" width="65%" />
 
 ---
-
+</div>
 
