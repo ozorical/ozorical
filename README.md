@@ -57,8 +57,7 @@ A Bedrock SMP built around a custom TypeScript addon stack and tight Discord int
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=ozorical&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozorical&theme=github_dark&hide_border=true&layout=compact" width="48%" />
+
 
 </div>
 
