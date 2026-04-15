@@ -44,6 +44,8 @@
 
 ### 🦀 CrabSMP
 
+</div>
+
 A Bedrock SMP built around a custom TypeScript addon stack and tight Discord integration.
 
 - Full **Discord bridge** — account linking, live player list, join/leave events
@@ -56,9 +58,5 @@ A Bedrock SMP built around a custom TypeScript addon stack and tight Discord int
 <img src="https://i.redd.it/5m4zmcrdmcud1.jpeg" width="65%" />
 
 ---
-
-
-
-</div>
 
 
