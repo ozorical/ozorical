@@ -29,31 +29,3 @@
 
 <div align="center">
 
-### Right now
-
-</div>
-
-- Relearning **Python** alongside [Endstone](https://github.com/EndstoneMC/endstone) development
-- Exploring databases — how they work and how to manage them for CrabSMP
-- Working on a Discord–Minecraft integration (account linking, live status, chat bridge)
-- Learning **C++**
-
----
-
-<div align="center">
-
-### 🦀 CrabSMP
-
-</div>
-
-A Bedrock SMP built around a custom TypeScript addon stack and tight Discord integration.
-
-- Full **Discord bridge** — account linking, live player list, join/leave events
-- Custom economy, warps, and TPA via **Crab-Engine**
-- Server events, lore, and ongoing updates
-- **Season 9: Rebirth** — live now
-
-<p align="center">
-
-`play.crabsmp.net` &nbsp;|&nbsp; Bedrock port `19132`
-
