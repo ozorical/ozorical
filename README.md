@@ -49,8 +49,24 @@
 
 <br/>
 
+<h3 align="center">Focus</h3>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ozorical&theme=dark&hide_border=false" />
+  Server architecture &nbsp;·&nbsp; Custom tooling &nbsp;·&nbsp; Addon systems<br/>
+  Performance tuning &nbsp;·&nbsp; Database design
+</p>
+
+<br/>
+
+<h3 align="center">GitHub</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ozorical&show_icons=true&hide_border=true&hide_title=true&theme=transparent" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozorical&layout=compact&hide_border=true&theme=transparent&langs_count=6" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ozorical&theme=transparent&hide_border=true" />
 </p>
 
 <br/>
