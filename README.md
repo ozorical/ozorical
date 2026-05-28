@@ -33,20 +33,20 @@
 <h3 align="center">What I'm building</h3>
 
 <p align="center">
-  <strong>CrabSMP</strong> — a live Bedrock SMP server running on Endstone, with a custom<br/>
-  TypeScript addon stack, Discord integration, and a engine called Crab-Engine.
+  <strong>CrabSMP</strong>, a live Bedrock SMP server running on Endstone, with a custom<br/>
+  TypeScript addon stack, Discord integration, and an engine called Crab-Engine.
+</p>
+
+<p align="center">
+  <img src="https://crabsmp.net/media/logo.png" height="150" />
 </p>
 
 <br/>
 
-<div align="center">
-  <img src="https://crabsmp.net/media/logo.png" height="150" />
-</div>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
