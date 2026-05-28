@@ -40,8 +40,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ozorical&show_icons=true&hide_border=true&theme=transparent&hide_title=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozorical&layout=compact&hide_border=true&theme=transparent&hide_title=true" height="150" />
+  <img src="https://crabsmp.net/media/logo.png" height="150" />
 </div>
 
 <br/>
