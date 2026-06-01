@@ -32,6 +32,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Endstone-5A4FCF?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/ScriptAPI-EB7100?style=for-the-badge&logoColor=white" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 <br/>
@@ -75,6 +76,5 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
