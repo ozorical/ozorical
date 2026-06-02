@@ -37,10 +37,6 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://crabsmp.net/media/logo.png" height="150" />
-</p>
-
 <br/>
 
 <h3 align="center">Focus</h3>
