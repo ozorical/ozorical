@@ -37,13 +37,6 @@
 
 <br/>
 
-<h3 align="center">What I'm building</h3>
-
-<p align="center">
-  <strong>CrabSMP</strong>, a live Bedrock SMP server running on Endstone, with a custom<br/>
-  TypeScript addon stack, Discord integration, and an engine called Crab-Engine.
-</p>
-
 <p align="center">
   <img src="https://crabsmp.net/media/logo.png" height="150" />
 </p>
