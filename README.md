@@ -21,9 +21,9 @@
 
 <p align="center">
   I'm Jacob, though most people online know me as <strong>Ozz</strong>. I'm a fullstack developer from the UK and I've been
-  writing code since 2022, mainly in TypeScript. Almost everything I build sits around Minecraft Bedrock servers:
-  addon frameworks, database layers, server-side plugins and all the glue that holds those pieces together. It started
-  as a way to make one server behave the way I wanted it to, and it turned into the thing I spend most of my time on.
+  coding since 2022, mainly in JavaScript. Almost everything I build sits around Minecraft Bedrock servers, such as my Minecraft server,
+  Endstone plugins, and more which can be seen on my repo list! It started as a way to make one server behave the way I wanted it to, 
+  and it turned into the thing I spend most of my time on!
 </p>
 
 <p align="center">
@@ -31,7 +31,7 @@
   out of keeping servers alive at two in the morning, and networking came out of needing to understand exactly why a
   packet was taking the route it was taking. I'd rather understand a system from the socket upwards than treat any
   layer of it as a black box, which is why I tend to end up writing my own tooling instead of reaching for something
-  off the shelf.
+  off the shelf, like an external solution or library for everything.
 </p>
 
 <p align="center">
@@ -56,23 +56,6 @@
   so profiling matters. A recent example was tracing a CPU bottleneck back to the tick counter itself and reworking
   how often the engine touched it. Small wins there are worth far more than clever features, because everything on the
   server is competing for the same twenty ticks a second.
-</p>
-
-<br/>
-
-<h3 align="center">Infrastructure</h3>
-
-<p align="center">
-  The server stack is entirely self-managed. Caddy handles the web layer with layer 4 routing for Bedrock traffic and
-  Cloudflare DNS modules for certificate issuance, built through xcaddy so I can pull in post-quantum cryptography
-  support from beta builds. In front of that sits a proxy layer for packet filtering and DDoS mitigation, which means
-  understanding RakNet properly rather than treating Bedrock networking as ordinary TCP.
-</p>
-
-<p align="center">
-  Hardware choices follow the same logic. Since the tick loop is single-threaded, sustained single-core boost matters
-  far more than core count, so hosting decisions get made on that basis rather than on whatever looks best on a spec
-  sheet. Latency budgets, datacentre proximity and dedicated versus shared cores all feed into it.
 </p>
 
 <br/>
@@ -122,7 +105,7 @@
 <h3 align="center">Hardware</h3>
 
 <p align="center">
-  Linux is home for me. I daily-drive Arch, run servers on Ubuntu and Debian, and keep a Mint machine around as a
+  I run servers on Ubuntu and Debian, and keep a Mint machine around as a
   desktop. Day to day that means managing services and users, sorting out permissions, living in SSH, reading logs and
   fixing things when they break. Most of what I know there came from having no other option at the time, which turned
   out to be the fastest way to learn it.
