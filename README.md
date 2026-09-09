@@ -20,23 +20,21 @@
 <h3 align="center">About</h3>
 
 <p align="center">
-  I'm Jacob, though most people online know me as <strong>Ozz</strong>. I'm a fullstack developer from the UK and I've been
-  coding since 2022, mainly in JavaScript. Almost everything I build sits around Minecraft Bedrock servers, such as my Minecraft server,
-  Endstone plugins, and more which can be seen on my repo list! It started as a way to make one server behave the way I wanted it to, 
-  and it turned into the thing I spend most of my time on!
+  I'm Jacob, known online as <strong>Ozz</strong>. Fullstack developer from the UK, coding since 2022, mostly in
+  JavaScript. Almost everything I build sits around Minecraft Bedrock, from my own server to Endstone plugins and
+  the tooling behind them.
 </p>
 
 <p align="center">
-  Working on real infrastructure taught me more than any tutorial did. Python came out of writing plugins, Linux came
-  out of keeping servers alive at two in the morning, and networking came out of needing to understand exactly why a
-  packet was taking the route it was taking. I'd rather understand a system from the socket upwards than treat any
-  layer of it as a black box, which is why I tend to end up writing my own tooling instead of reaching for something
-  off the shelf, like an external solution or library for everything.
+  Real infrastructure taught me more than any tutorial. Python came from writing plugins, Linux came from keeping
+  servers alive at 2am, and networking came from figuring out why a packet took the route it did. I'd rather
+  understand a system from the socket up than treat any part of it as a black box, which is why I usually write my
+  own tooling instead of reaching for something off the shelf.
 </p>
 
 <p align="center">
-  I finished A levels with an <strong>A* in Computing</strong> and start a Computer Science come this september.
-  I'm currently open to freelance work and commissions, and always happy to talk shop with other developers.
+  A* in Computing at A level. Starting a Computer Science degree this September. Open to freelance work, always
+  happy to talk shop.
 </p>
 
 <br/>
@@ -44,18 +42,16 @@
 <h3 align="center">CrabSMP</h3>
 
 <p align="center">
-  <a href="https://crabsmp.net"><strong>CrabSMP</strong></a> is a Minecraft Bedrock server I run from top to bottom.
-  It's built on the Endstone C++ plugin framework and backed by <strong>Crab Engine</strong>, a custom engine I write
-  and maintain myself. That covers the in-game systems and the economy, the rank and player schemas underneath them,
-  the generated in-game UI, and the Discord integration that sits alongside the whole thing. Running it also means
-  handling the parts nobody sees, from community management and admin decisions through to player acquisition.
+  <a href="https://crabsmp.net"><strong>CrabSMP</strong></a> is a Minecraft Bedrock server I run top to bottom.
+  Built on Endstone, backed by <strong>Crab Engine</strong>, an engine I write and maintain myself. That covers
+  the in-game systems, economy, ranks, generated UI, and the Discord side, plus everything nobody sees: community
+  management, admin calls, and player acquisition.
 </p>
 
 <p align="center">
-  Performance work is the part I enjoy most. Bedrock gives you a single main tick thread and very little room to hide,
-  so profiling matters. A recent example was tracing a CPU bottleneck back to the tick counter itself and reworking
-  how often the engine touched it. Small wins there are worth far more than clever features, because everything on the
-  server is competing for the same twenty ticks a second.
+  Performance is what I enjoy most. Bedrock gives you one main tick thread and nowhere to hide, so profiling
+  matters. Recently I traced a CPU bottleneck to the tick counter itself and cut how often the engine touched it.
+  Small wins there beat clever features, since everything on the server fights for the same 20 ticks a second.
 </p>
 
 <br/>
@@ -65,15 +61,15 @@
 <table align="center">
   <tr>
     <td><strong>Crab Engine</strong></td>
-    <td>Custom Bedrock server engine. Currently focused on tick loop profiling and cutting CPU cost.</td>
+    <td>Custom Bedrock engine. Currently cutting CPU cost in the tick loop.</td>
   </tr>
   <tr>
     <td><strong>Endstone plugins</strong></td>
-    <td>Gameplay commands, rank systems and generated in-game UI.</td>
+    <td>Gameplay commands, rank systems, generated in-game UI.</td>
   </tr>
   <tr>
     <td><strong>Infrastructure</strong></td>
-    <td>Caddy with layer 4 routing, post-quantum TLS and Cloudflare DNS.</td>
+    <td>Caddy with layer 4 routing, post-quantum TLS, Cloudflare DNS.</td>
   </tr>
   <tr>
     <td><strong>Data</strong></td>
@@ -105,16 +101,13 @@
 <h3 align="center">Hardware</h3>
 
 <p align="center">
-  I run servers on Ubuntu and Debian, and keep a Mint machine around as a
-  desktop. Day to day that means managing services and users, sorting out permissions, living in SSH, reading logs and
-  fixing things when they break. Most of what I know there came from having no other option at the time, which turned
-  out to be the fastest way to learn it.
+  I run servers on Ubuntu and Debian, and keep a Mint machine as my desktop. Day to day that's managing services,
+  sorting permissions, living in SSH, and fixing things when they break.
 </p>
 
 <p align="center">
-  There's a hardware side to this too. Back in 2022 and 2023 I ran BeRP bots for CrabSMP locally on my crappy laptop,
-  while BeRP was still on GitHub. I've built my own machines from the parts up as well, so I'm comfortable working
-  right down to the physical layer rather than only the software sitting on top of it.
+  Back in 2022 and 2023 I ran BeRP bots for CrabSMP locally on my old laptop. I've also built my own machines from
+  parts, so I'm comfortable down to the physical layer, not just the software sitting on top.
 </p>
 
 <br/>
