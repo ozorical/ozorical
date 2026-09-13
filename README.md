@@ -3,14 +3,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7D9CB8&center=true&vCenter=true&width=520&lines=Fullstack+developer+from+the+UK;TypeScript%2C+Node.js%2C+Python;Minecraft+Bedrock+servers+and+engines;Owner+of+CrabSMP" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7D9CB8&center=true&vCenter=true&width=520&lines=Fullstack+developer+from+the+UK;TypeScript%2C+Node.js%2C+Python;Minecraft+Bedrock+servers+and+engines;Owner+of+CrabSMP" />
 </p>
 
 <p align="center">
-  <a href="mailto:ozz@crabsmp.net"><img src="https://img.shields.io/badge/Email-2E4057?style=flat-square&logo=maildotru&logoColor=E8EEF4" /></a>
-  <a href="https://discord.com/users/1136030078405451787"><img src="https://img.shields.io/badge/Discord-4A6580?style=flat-square&logo=discord&logoColor=E8EEF4" /></a>
   <a href="https://crabsmp.net"><img src="https://img.shields.io/badge/CrabSMP-7D9CB8?style=flat-square&logoColor=E8EEF4" /></a>
   <a href="https://relaxed-kataifi-f99935.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-8FA8BF?style=flat-square&logoColor=E8EEF4" /></a>
 </p>
@@ -20,21 +16,15 @@
 <h3 align="center">About</h3>
 
 <p align="center">
-  I'm Jacob, known online as <strong>Ozz</strong>. Fullstack developer from the UK, coding since 2022, mostly in
-  JavaScript. Almost everything I build sits around Minecraft Bedrock, from my own server to Endstone plugins and
-  the tooling behind them.
+  Fullstack developer, self taught, coding since 2022. Most of what I build lives around Minecraft Bedrock: servers, Endstone plugins, and the engine underneath them.
 </p>
 
 <p align="center">
-  Real infrastructure taught me more than any tutorial. Python came from writing plugins, Linux came from keeping
-  servers alive at 2am, and networking came from figuring out why a packet took the route it did. I'd rather
-  understand a system from the socket up than treat any part of it as a black box, which is why I usually write my
-  own tooling instead of reaching for something off the shelf.
+  Python came from writing plugins, Linux came from keeping servers online, and networking came from chasing down why a packet took the route it did. I'd rather understand a system properly than treat any part of it as a black box, so I usually end up writing my own tooling instead of reaching for something off the shelf.
 </p>
 
 <p align="center">
-  A* in Computing at A level. Starting a Computer Science degree this September. Open to freelance work, always
-  happy to talk shop.
+  A* in Computing at A level. Currently studying Computer Science. Open to freelance work and full time roles.
 </p>
 
 <br/>
@@ -42,26 +32,21 @@
 <h3 align="center">CrabSMP</h3>
 
 <p align="center">
-  <a href="https://crabsmp.net"><strong>CrabSMP</strong></a> is a Minecraft Bedrock server I run top to bottom.
-  Built on Endstone, backed by <strong>Crab Engine</strong>, an engine I write and maintain myself. That covers
-  the in-game systems, economy, ranks, generated UI, and the Discord side, plus everything nobody sees: community
-  management, admin calls, and player acquisition.
+  <a href="https://crabsmp.net"><strong>CrabSMP</strong></a> is a Minecraft Bedrock server I built and run end to end. It runs on Endstone and is backed by <strong>Crab Engine</strong>, an engine I write and maintain myself, covering the in-game systems, economy, ranks, generated UI, and the Discord integration behind it.
 </p>
 
 <p align="center">
-  Performance is what I enjoy most. Bedrock gives you one main tick thread and nowhere to hide, so profiling
-  matters. Recently I traced a CPU bottleneck to the tick counter itself and cut how often the engine touched it.
-  Small wins there beat clever features, since everything on the server fights for the same 20 ticks a second.
+  Performance is the part I enjoy most. Bedrock gives you one main tick thread and nowhere to hide, so profiling matters. I recently traced a CPU bottleneck to the tick counter itself and cut how often the engine touched it, since everything on the server fights for the same 20 ticks a second.
 </p>
 
 <br/>
 
-<h3 align="center">What I'm working on</h3>
+<h3 align="center">What I'm building</h3>
 
 <table align="center">
   <tr>
     <td><strong>Crab Engine</strong></td>
-    <td>Custom Bedrock engine. Currently cutting CPU cost in the tick loop.</td>
+    <td>Custom Bedrock engine, currently focused on cutting CPU cost in the tick loop.</td>
   </tr>
   <tr>
     <td><strong>Endstone plugins</strong></td>
@@ -82,18 +67,10 @@
 <h3 align="center">Stack</h3>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,python,nodejs,mongodb,mysql&theme=dark" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,nodejs,mongodb,mysql&theme=dark" />
 </p>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,git,linux,cloudflare,bash,vscode&theme=dark" />
-  </a>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Endstone-2E4057?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAABh0lEQVR4nG2QsWojUQxFz5opNCCMZ1BlPK9wkSawRT4h37zfsYVhGxdTPIMr8SYMAqvcIo7jIrcRgnt0L%2Fo1X%2F8ECgHNKJmI1AQB9wJhpk4oTXx0tBNvYZg3KG5BAAzDb8DslD6mh6ICqCp0bpC4ohEGSRPhU%2BljqCqEhAAOGp0xZiBKQjpihS8N62FYWbYnFdwB1WhdJhiexezB1NuFft3dOYUsppGESOmCpomFEnGdDkzAjukRw%2FZW1B9odCpEjqFhovwk9RCY1zPAymaYfbqeoSX1R2CYzlh7rN19ShFie%2FnAAm9oQbCkH%2F4Cmd%2F8BvjH%2BzrvSFUNc1UrgHn1b1vZHt9e4RW62%2F6FK0BShdEJUBOSYrBcXrAWEaDL0SRLl9KOe3UBxr4%2FTMPX0fxAImiWY6AKUIi6CUgJ88pTA4DPqCBRs0pUHNfSTbODA74vw5PdRad5B7t%2BZTkGqFAlHl8ChMvlNE33oKkH3p8T3cBLt%2BzfkBpecGDkqdltf0ohvJhrasVH4D8XTcRXTzQd9QAAAABJRU5ErkJggg%3D%3D" />
-  <img src="https://img.shields.io/badge/ScriptAPI-4A6580?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAABV0lEQVR4nG2Qva3cQAyEPz9sfCBYgAJCBShQ5FCha3CtqkDBFrBgoAKIgSpwcKf3Y9xEJDhDcubX3z%2B%2FS0YgBBGV5eEkRcncVAoZIYgi9VGYh7w8CDLTQ5WFIZvX0%2BcLq3uBJzS5VKyzA1WlYj1XTgD2mW2XHNIIPANrVJgXTzjAi31jvToX0OnURAvh57kzA9PiQd26N%2Bjn2jLw%2FuqVpfBahkpACI6Hc33XtKgcy0IHCJSFhEU4WR5k%2BrYBYwyXlhjN59XvtxPMAVQpD6Pm9YIdEA9ZRFZ7Hto2qkZWKImXsIovO%2BFBZVq0Og6Mknko%2FJ6q0on6et17B1iqJVzz%2BhVm35%2Flg6lw%2F5lxoRbQeYO1zwDnBjxtACo%2B%2BnW94%2F%2FAvm37tgEha%2F8Pt0%2FWG2WGt2mZGAMJUNh1xzKWA3CMFKzAeExBNlJEOF6qQJ9%2BlJiBwGw6juc6h39kZL%2FW2idvqgAAAABJRU5ErkJggg%3D%3D" />
+  <img src="https://skillicons.dev/icons?i=docker,git,linux,cloudflare,bash,vscode&theme=dark" />
 </p>
 
 <br/>
@@ -101,22 +78,7 @@
 <h3 align="center">Hardware</h3>
 
 <p align="center">
-  I run servers on Ubuntu and Debian, and keep a Mint machine as my desktop. Day to day that's managing services,
-  sorting permissions, living in SSH, and fixing things when they break.
-</p>
-
-<p align="center">
-  Back in 2022 and 2023 I ran BeRP bots for CrabSMP locally on my old laptop. I've also built my own machines from
-  parts, so I'm comfortable down to the physical layer, not just the software sitting on top.
-</p>
-
-<br/>
-
-<h3 align="center">Focus</h3>
-
-<p align="center">
-  Server architecture &nbsp;·&nbsp; Custom tooling &nbsp;·&nbsp; Addon systems<br/>
-  Performance tuning &nbsp;·&nbsp; Database design &nbsp;·&nbsp; Linux and networking
+  I run servers on Ubuntu and Debian and keep Linux Mint on my own desktop. Day to day that means managing services, sorting permissions, and living in SSH. I've also built my own machines from parts, so I'm comfortable down to the physical layer, not just the software sitting on top of it.
 </p>
 
 <br/>
@@ -135,13 +97,6 @@
 <br/>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
-<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8FA8BF,50:4A6580,100:2E4057&height=120&section=footer" />
 </p>
+
