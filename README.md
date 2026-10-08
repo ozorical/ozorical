@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E4057,50:4A6580,100:8FA8BF&height=180&section=header&text=Ozz&fontSize=70&fontColor=E8EEF4&fontAlignY=34&animation=fadeIn" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7D9CB8&center=true&vCenter=true&width=520&lines=Fullstack+developer+from+the+UK;TypeScript%2C+Node.js%2C+Python;Minecraft+Bedrock+servers+and+engines;Owner+of+CrabSMP" />
 </p>
 
